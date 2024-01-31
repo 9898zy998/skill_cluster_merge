@@ -1,0 +1,233 @@
+[
+    [
+        ["Software Development", "Software Implementation", "Software Development Methodologies", "Software Development Best Practices", "Software Deployment", "Software Development Practices", "Software Development Principles", "Feature Development", "Production Software Development", "Software methodologies"] , 
+        ["Software Development Life Cycle", "Software Development Lifecycle", "Software Development Processes", "Software Development Process"], 
+        ["Software Engineering", "Best Practices", "Software Engineering Best Practices", "Engineering Practices", "Software engineering principles", "Software engineering practices", "Engineering Best Practices", "Software Engineering Tools", "Software Engineering Processes", "Software Engineering Fundamentals", "Software Building", "Software Engineering Concepts"]
+    ],
+    [
+        ["Distributed Systems", "Distributed Computing", "Distributed Applications", "Distributed System Design", "Distributed Systems Design", "Distributed Systems Architecture", "Distributed Software Systems", "Distributed Systems Development"] , 
+        ["Distributed Databases", "Distributed Database Systems", "Distributed Data Management", "Distributed Data Storage", "Distributed Database Design", "Distributed DBMS"]
+    ],
+    [
+        ["Testing", "Software Testing", "Testing Methodologies", "Testing Approaches", "System Verification and Testing", "Testing Process"] , 
+        ["Performance Testing", "Load Testing", "Stress Testing", "Benchmark Testing", "Scalability Testing", "Endurance Testing", "Volume Testing"],
+        ["Controls Testing", "Control Testing"]
+    ],
+    [
+        ["Data Analysis", "Data Analytics", "Data Analysis Skills", "Exploratory Data Analysis", "Unstructured Data Analysis"] , 
+        ["Data Analysis Tools", "Data Analytics Tools", "Data Analysis Software", "Data Analytics Software", "Data Analysis Applications", "Data Analysis Instruments"]
+    ],
+    [
+        [".NET", "ASP.NET", ".NET Framework", "VB.NET", "ASP.NET MVC", ".NET development", "ASP.NET Core", "Microsoft .NET", ".NET Technologies", "ASP", "ASP.NET WEB API", ".NET Core / ASP.NET MVC", ".NET platform", ".NET 7", ".Net stack", ".NET Framework (C#)", ".Net Core 2.x", ".NET coding"] ,
+        [".NET Core"]
+    ],
+    [
+        ["API Development", "API Design", "API Integration", "API Management", "API Integrations", "API Design and Development", "API Implementation", "API Engineering", "API Construction", "API Design and Maintenance", "APIs/Endpoints", "APIs/Endpoints Implementation"] , 
+        ["API Documentation", "API Doc Development", "API Reference Documentation", "API Manual Creation", "API Guide Development", "API Documentation Writing"],
+        ["API Testing", "API Validation", "API Verification", "Application Programming Interface Testing", "API Examination", "Testing of APIs"]
+    ],
+    [
+        ["Cloud Computing", "Cloud Technologies", "Cloud", "Cloud Platforms", "Cloud Infrastructure", "Cloud Services", "Cloud Architecture", "Cloud Environments", "Cloud Technology", "Cloud Environment", "Public Cloud", "Cloud experience", "Cloud Deployment", "Cloud Engineering", "Public Clouds", "Cloud platform", "Cloud Architectures", "Cloud Computing Platforms", "Cloud-native Applications", "Cloud Native Technologies", "Public Cloud Infrastructure", "Cloud Environment Experience", "Public Clouds Experience"] , 
+        ["Cloud Infrastructure Management", "Cloud Services Management", "Cloud Computing Infrastructure Management", "Cloud Systems Management", "Cloud IT Infrastructure Management", "Management of Cloud Infrastructure"],
+        ["Cloud Native Applications", "Cloud-based applications", "Cloud-based Systems", "Cloud-Native Software", "Cloud Native Services"],
+        ["Cloud Development", "Cloud Deployments", "Cloud Application Development", "Cloud Software Development", "Cloud Development Platforms", "Cloud-Based Application Development", "Development in Cloud Environment", "Development of Cloud Applications", "Cloud App Development"]
+    ],
+    [
+        ["Product Development", "Product Development Leadership"] , 
+        ["Product Ownership", "Product Leadership", "Product Control", "Product Stewardship", "Product Directorship"]
+    ],
+    [
+        ["Documentation", "Technical Documentation", "Documentation Skills", "Design Documentation", "Software Documentation", "Code Documentation", "Technical Writing", "Technical Clarity"] , 
+        ["Test Documentation", "Test Documentation Design", "Test Documentation Development"],
+        ["Test Plan Design", "Test Plans Review"]
+    ],
+    [
+        ["Networking", "Network Protocols", "Networking Protocols", "Networks", "Networking Concepts", "Networking Technologies", "Computer Networking", "Networking Fundamentals", "Networking knowledge"] , ["Network Administration", "Network Operations", "Network Configuration", "Network Support", "Network Monitoring Tools", "Network Hardware Installation"],
+        ["Network Installation", "Network Implementation", "Network Integration", "Network Setup", "Network Deployment"],
+        ["Network Engineering", "Network Design", "Network Architecture", "Network Programming", "Network Development", "Network Architecture Development", "Network Systems Architecture", "Network Infrastructure Architecture", "Network Infrastructure Development", "Network Systems Development", "Network Configuration Architecture"],
+        ["Network Management", "Network Maintenance", "Network Infrastructure Maintenance", "Network Services Management", "Network Upkeep", "Maintenance of Network Systems", "Network Servicing"]
+
+    ],
+    [
+        ["Data Management", "Database Management", "Databases", "Database", "Database Systems", "Database Technologies", "Database Architecture", "Database concepts", "Database Knowledge", "Database Experience", "Database Technology"], 
+        ["Database Administration", "Database Management Systems", "DBMS", "Database Management Software", "DBMS Software"]
+    ],
+    [
+        ["Entity Framework", "Entity Framework Core", "Microsoft Entity Framework", "EF", ".NET Entity Framework", "Entity Framework Development"] , 
+        ["EF Core", "Entity Framework Core Development", "EF Core Database Programming", "EF Core Development", "Microsoft EF Core"]
+    ],
+    [
+        ["Information Security", "Network Security", "Data Security", "IT Security", "Information Technology Security", "Information Security Events Analysis", "IT Security Events Analysis"] , 
+        ["Security Architecture", "Security Design", "Information Security Architecture", "Network Security Architecture", "Cybersecurity Architecture", "Security System Design", "Security Architecture Design", "IT Security Architecture", "Cybersecurity Design", "Security Solution Design", "Security Product Development", "Information Security Design", "IT Security Design", "Security Product Design", "Security Product Engineering", "Design of Security Products"],
+        ["Security Engineering", "Cybersecurity Engineering", "Information Security Engineering", "Network Security Engineering", "Security Systems Engineering", "IT Security Engineering"]
+    ],
+    [
+        ["E-commerce", "E-commerce Experience", "eCommerce Platforms", "E-commerce Expertise"] , 
+        ["E-commerce Site Management", "E-commerce Website Management"]
+    ],
+    [
+        ["E-commerce Development", "Online Retail Development", "E-commerce Platform Creation", "E-commerce Website Building", "Online Store Development", "Digital Commerce Development"] , 
+        ["E-commerce Site Management", "E-commerce Website Management"],
+        ["eCommerce Software development", "eCommerce Platform Development", "eCommerce Application Development", "eCommerce Solution Development", "Digital Commerce Software Development", "Online Retail Software Development"]
+    ],
+    [
+        ["Data Mining", "Data Retrieval", "Data Querying"] , ["Data Mapping", "Data Correlation", "Data Linking", "Data Matching", "Data Association", "Data Alignment"]
+    ],
+    [
+        ["Source Control Management", "Source Control", "Source Control Workflow"] , 
+        ["Source Code Management", "Source Code Control", "Software Versioning", "Codebase Management", "Revision Control System"]
+    ],
+    [
+        ["Systems Engineering", "System Engineering", "Systems Design", "System Development", "System Planning", "System Structuring"] , 
+        ["System Administration", "Systems Administration", "System Configuration"]
+    ],
+    [
+        ["Big Data", "Big Data Technologies", "Big Data Processing", "Big Data Platforms", "Big Data Systems", "Data Technology", "Big Data Environments"] , 
+        ["Big Data Tools", "Data Science Tools"]
+    ],
+    [
+        ["TLS", "TLS Encryption", "Transport Layer Security", "Secure Sockets Layer (SSL)", "TLS Protocol", "TLS/SSL Encryption"] , 
+        ["SSL", "SSL Certificates", "SSL Encryption", "SSL Security", "Secure Sockets Layer", "SSL Protocol"]
+    ],
+    [
+        ["Design", "Design Thinking", "Design Principles", "Design Reviews", "Design Review", "Design Skills", "Engineering Design Principles"] , 
+        ["Design Specifications", "Design Requirements", "Design Specs", "Design Parameters", "Technical Design Specs", "Blueprint Designing"]
+    ],
+    [
+        ["ECS", "AWS ECS", "Amazon ECS", "Elastic Container Service", "Amazon Elastic Container Service", "ECS Service"] , 
+        ["EKS", "AWS EKS", "Amazon EKS", "AWS Elastic Kubernetes Service", "Elastic Kubernetes Service", "Amazon Elastic Kubernetes Service"]
+    ],
+    [
+        ["NestJS", "NestJS programming", "NestJS development", "NestJS framework", "Working with NestJS", "NestJS application development"] , 
+        ["Nest.js", "Nest.js development", "Nest.js programming", "Nest.js framework", "Nest.js application development", "Nest.js backend development"]
+    ],
+    [
+        ["Complexity Analysis", "Big O Notation", "Complexity Theory", "Time Complexity Analysis", "Space Complexity Analysis"] , 
+        ["Time Complexity", "Space Complexity", "Asymptotic Analysis"]
+    ],
+    [
+        ["Platform Engineering", "Platform Development", "Platform Architecture", "Building Platforms", "Development of Platforms", "Platform Systems Engineering", "System Platform Engineering", "Platform Designing", "Platform Creation"] , 
+        ["Design System Management", "Design Systems Management"]
+    ],
+    [
+        ["Infrastructure Management", "IT Systems Management", "Infrastructure Operations", "IT Infrastructure Administration", "Infrastructure Services Management", "Infrastructure Support and Maintenance"] , 
+        ["IT Infrastructure", "Information Technology Infrastructure", "Technology Infrastructure Management", "IT Network Infrastructure", "Information Systems Infrastructure", "IT Systems Infrastructure", "Information Technology", "IT Systems"]
+    ],
+    [
+        ["UI Testing", "Interface Testing", "User Interface Testing", "User Interface Verification", "Testing User Interface", "UI Verification"] , 
+        ["User Interface Design", "User Interface Development", "UI/UX Development", "Interface Designing"],
+        ["Interface Design", "GUI Design", "Graphical User Interface Design", "Visual Interface Design"]
+    ],
+    [
+        ["3D Visualization", "3D Graphics", "3D Rendering", "3D Animation", "3D Graphic Design"] , 
+        ["3D Designing", "3D Object Creation", "Three-Dimensional Modeling", "3D Graphic Designing"]
+    ],
+    [
+        ["Predictive Modeling", "Predictive Models"] , ["Predictive Analytics", "Predictive Modelling", "Predictive Data Analysis", "Predictive Insight Generation", "Predictive Data Mining"]
+    ],
+    [
+        ["Problem Identification", "Issue Identification", "Issue Spotting", "Problem Detection", "Problem Discovery", "Trouble Recognition"] , 
+        ["Problem Definition", "Problem Framing", "Issue Definition", "Defining Challenges"]
+    ],
+    [
+        ["Hardware Design", "Digital Hardware Design", "Electronic Hardware Design", "Analog Hardware Design"] , 
+        ["Hardware Development", "Hardware Engineering", "Hardware Product Development", "Electronic Hardware Development", "Development of Hardware Systems"]
+    ],
+    [
+        ["Billing Software"] , 
+        ["Billing Management", "Billing System Management"]
+    ],
+    [
+        ["CMS", "CMS Platforms", "CM"] , 
+        ["CMMS", "CMM", "CMMS Systems"]
+    ],
+    [
+        ["Cash Application", "Cash Applications"] , 
+        ["Cash Control", "Cash Forecasting"]
+    ],
+    [
+        ["Creative Content Development", "Creative Content Production", "Creative Writing"] , 
+        ["Creative Development", "Creative Concept Development"]
+    ],
+    [
+        ["Control Panel Design"] , 
+        ["Control Panel Operation"]
+    ],
+    [
+        ["Datacenter Management", "Datacenter Operations Management"] , 
+        ["Data Center", "Data Center Operations", "Data Centers", "Data Center Management", "Data Center Infrastructure", "Data Center Design", "Data Center Experience", "Data Center Technologies", "Data Center Environment", "Data Center Engineering", "Data Center Networking", "Data Center Networks", "Data Center Architecture", "Data Center Construction", "Data Center Environments", "Data Center Support", "Data center automation", "Data Center Knowledge", "Data Center Development", "Data Center Setup", "Data Center Installation", "Data Center Installation & Fixes", "Data Center Application Installations"]
+    ],
+    [
+        ["Failure Mode Analysis", "Failure Modes Analysis"] , 
+        ["Failure Analysis"]
+    ],
+    [
+        ["Help Desk", "Help Desk Support", "IT Help Desk", "Help desk experience", "Help-Desk Support", "Advanced Help Desk Support"] , 
+        ["Help Desk Management", "Help Desk Administration"],
+        ["Helpdesk Support", "Helpdesk", "Helpdesk experience"]
+    ],
+    [
+        ["IT experience", "Technology Skills", "IT Skills", "IT Background", "IT Concepts", "IT Development", "IT Development Experience", "IT General Controls"] , 
+        ["IT Management", "IT Projects", "IT Service Management", "IT Services Management"]
+    ],
+    [
+        ["KPIs", "KPI Management", "KPI Tracking", "KPI Monitoring", "KPI", "KPI Definition"] , 
+        ["KPI Reporting"],
+        ["KPI Development", "KPI Implementation", "KPI Integration"],
+        ["KPI Analysis", "KPI Reports Analysis"]
+    ],
+    [
+        ["Middleware", "Middleware Technologies"] , 
+        ["Middleware Development", "Middleware Management", "Middleware Testing"]
+    ],
+    [
+        ["Motion Design"] , 
+        ["Motion Graphics", "Motion Graphic Design", "Motion Graphics Design"]
+    ],
+    [
+        ["NIST 800-171"] , 
+        ["NIST 800-53", "NIST SP 800-53"],
+        ["NIST 800-32"],
+        ["NIST SP 800-37"],
+        ["NIST SP 800-30"]
+    ],
+    [
+        ["RFIs", "RFI"] , 
+        ["RFQ", "RFQs"]
+    ],
+    [
+        ["Revenue Management"] , 
+        ["Revenue Generation"]
+    ],
+    [
+        ["Ticket Management", "Ticket Management System", "Ticket Handling"] , 
+        ["Ticketing Systems", "Ticketing System", "Ticketing Tools", "Ticketing software", "Ticketing System Management", "Ticketing System Usage"]
+    ],
+    [
+        ["Workflow Analysis"] , 
+        ["Workflow Design", "Workflow Development", "Workflow Creation", "Workflow Implementation", "Workflow Redesign"],
+        ["Workflow Management", "Workflow Management Systems"]
+    ],
+    [
+        ["Customer Satisfaction Improvement", "Customer Satisfaction Enhancement"] , 
+        ["User Satisfaction Improvement", "User Satisfaction Enhancement", "End-User Satisfaction Improvement"]
+    ],
+    [
+        ["Test Plan Design", "Test Plans Review"] , 
+        ["Test Documentation", "Test Documentation Design", "Test Documentation Development"]
+    ],
+    [
+        ["SQL Server Agent Management", "SQL Server Agent Configuration"] , 
+        ["SQL Agent Jobs", "SQL Server Agent Jobs"]
+    ],
+    [
+        ["Test Scenario Design", "Test Scenarios Preparation"] , 
+        ["Test Script Creation", "Test Script Preparation"],
+        ["Test Plan Preparation", "Test Strategy Creation", "Test Strategy Design", "Test Strategy Preparation"]
+    ],
+    [
+        ["Compensation Management", "Compensation Packages Creation", "Compensation Package Development"] , 
+        ["Compensation Programs", "Compensation Planning", "Compensation Plans"],
+        ["Compensation Analysis"]
+    ]
+]
