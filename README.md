@@ -1,0 +1,2 @@
+# skill_cluster_merge
+基于llama2的last_hidden_stage，获得静态cluster向量，计算每个cluster的余弦相似度
